@@ -15,6 +15,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - test
   - post
 - type: heading
   label: Data
