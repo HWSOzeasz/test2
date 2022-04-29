@@ -8,7 +8,6 @@ fields:
   template_types:
   - test
   - home
-  - post
   config:
     min: 
     max: 
